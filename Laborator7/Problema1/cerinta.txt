@@ -1,0 +1,15 @@
+Write two C++ literals for Kelvin and Fahrenheit conversions to Celsius so that the following code works.
+
+int main() {
+
+    float a = 300_Kelvin;
+
+    float b = 120_Fahrenheit;
+
+    return 0;
+
+}
+
+Organize the code in the following way:
+
+a main file called main.cpp that contains the main function and has an example on how to use those two literals (similar to the explained in the previous main function) . 
